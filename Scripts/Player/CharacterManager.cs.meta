@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d56b2739887d7b04292664c4116894fe
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - CharacterDatabase: {fileID: 11400000, guid: bbfbad28f644c364f82f47edef5c7f98, type: 2}
+  - InitialsDatabase: {fileID: 11400000, guid: 8445f6855d7c6204792f2e20cb66f558, type: 2}
+  - AllPolimonDatabase: {fileID: 11400000, guid: b80cf009f37e82d4e9169b37c8d9aa60, type: 2}
+  - Player: {instanceID: 0}
+  - PersonagemEscolhido: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
